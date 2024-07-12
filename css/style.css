@@ -15,10 +15,7 @@ body{
 }
 
 
-.header{
-    height: 1600px;
-    width: 80px;
-}
+
 
 .color-web{
 color: var(--header-logo);
@@ -60,8 +57,6 @@ letter-spacing: 0.28px;
 }
 .hero{
     background-color: var(--footer-background);
-    height: 1600px;
-    width: 600px;
 }
 .hero-title{
 color: var(--main-background);
@@ -81,10 +76,7 @@ line-height: 1.87; /* 187.5% */
 letter-spacing: 0.96px;
 background-color: var(--header-logo);
 }
-.benefits{
-    height: 1600px;
-    width: 2346px;
-}
+
 .benefits-title{
 color: var(--accent-color);
 font-size: 14px;
@@ -108,10 +100,7 @@ font-weight: 700;
 line-height: normal;
 letter-spacing: 1.08px;
 }
-.team{
-    height: 1600px;
-    width: 648px;
-}
+
 .team-title{
 color: var(--accent-color);
 text-align: center;
@@ -135,10 +124,6 @@ font-size: 16px;
 font-weight: 400;
 line-height: normal;
 letter-spacing: 0.48px;
-}
-.footer{
-    height: 1600px;
-    width: 252px;
 }
 .footer-logo{
 color: var(--header-logo);

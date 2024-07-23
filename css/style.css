@@ -306,13 +306,14 @@ body {
     display: flex;
     justify-content: center;
     gap: 8px;
-    border-radius: 4px;
     padding-top: 100px;
     padding-bottom: 56px
 }
 .btn-btn{
     padding: 6px 25px;
     background-color: var(--team-background);
+    border-radius: 4px;
+
 
 }
 .btn-btn:hover{

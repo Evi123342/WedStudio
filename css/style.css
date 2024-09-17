@@ -19,6 +19,18 @@ body {
     display: flex;
     align-items: center;
 }
+.icon-email{
+    width: 16px;
+    height: 12px;
+}
+.icon-phone{
+    width: 16px;
+    height: 12px;
+}
+.icon-antenna{
+    width: 70px;
+    height: 70px;
+}
 
 .container {
     width: 1200px;

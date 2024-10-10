@@ -23,11 +23,14 @@ body {
 .icon-email {
     width: 16px;
     height: 12px;
+    margin-right: 10px;
 }
 
 .icon-smartphone {
     width: 16px;
     height: 12px;
+    margin-right: 10px;
+
 }
 
 .icon-antenna {
@@ -105,24 +108,29 @@ body {
     display: flex;
     justify-content: center;
     margin-top: 16px;
+    padding-bottom: 30px;
 }
 
 .svg-icon-olga {
     display: flex;
     justify-content: center;
     margin-top: 16px;
+    padding-bottom: 30px;
+
 }
 
 .svg-icon-mykola {
     display: flex;
     justify-content: center;
     margin-top: 16px;
+    padding-bottom: 30px;
 }
 
 .svg-icon-myhaylo {
     display: flex;
     justify-content: center;
     margin-top: 16px;
+    padding-bottom: 30px;
 }
 .svg-ya-go{
     width: 106px;
@@ -152,6 +160,28 @@ body {
     display: flex;
     justify-content: center;
     margin-bottom: 110px;
+}
+.div-icon-antenna{
+    background-color: #F5F4FA;
+    padding: 25px 100px;
+    margin-bottom: 30px;
+}
+.div-icon-clock-1{
+    background-color: #F5F4FA;
+    padding: 25px 100px;
+    margin-bottom: 30px;
+
+}
+.div-icon-diagram{
+    background-color: #F5F4FA;
+    padding: 25px 100px;
+    margin-bottom: 30px;
+
+}
+.div-icon-astronaut-1{
+    background-color: #F5F4FA;
+    padding: 25px 100px;
+    margin-bottom: 30px;
 }
 .container {
     width: 1200px;
@@ -213,6 +243,8 @@ body {
     font-weight: 500;
     line-height: 1.14;
     letter-spacing: 0.28px;
+    display: flex;
+    align-items: center;
 }
 
 .header-link:hover,
@@ -272,6 +304,7 @@ body {
     line-height: normal;
     letter-spacing: 0.42px;
     text-transform: uppercase;
+    margin-bottom: 10px;
 }
 
 .benefits-text {
@@ -336,6 +369,8 @@ body {
     font-weight: 500;
     line-height: normal;
     letter-spacing: 0.48px;
+    padding-top: 30px;
+    padding-bottom: 10px;
 }
 
 .team-text {
@@ -346,7 +381,21 @@ body {
     line-height: normal;
     letter-spacing: 0.48px;
 }
+.div-info-igor{
+    background-color: #FFF; 
+}
+.div-info-olga{
+    background-color: #FFF; 
 
+}
+.div-info-mykola{
+    background-color: #FFF; 
+
+}
+.div-info-myhaylo{
+    background-color: #FFF; 
+
+}
 .footer {
     padding-top: 60px;
     padding-bottom: 60px;
